@@ -16,8 +16,8 @@ namespace LINQ_Intersect_and_Except_Methods
 
             var Concat_grp = IBM_grp.Intersect(Microsoft_grp);
 
-            // Intersect(); used for find the share items or duplicate items .
-            // Except(); used for find items exist in grp1 & does not exist in grp2 .
+         Comment =>   # Intersect(); used for find the share items or duplicate items .
+         Comment =>   # Except(); used for find items exist in grp1 & does not exist in grp2 .
 
             // Concat(); for Adding the grp to another and print the total data .
             // Distinct(); Do not show duplicate items .
